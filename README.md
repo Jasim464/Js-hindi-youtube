@@ -1,2 +1,2 @@
-# Js-hindi-youtube
+# JavaScript Course
 coding
